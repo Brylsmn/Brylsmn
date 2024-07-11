@@ -6,22 +6,14 @@
   <br>&emsp;&ensp;_Bachelor of Science in Computer Science_
 
 # Certifications
-**Basic Cybersecurity Training Completion**<hr>
-![Basic Cybersecurity Training Completion Certification](https://github.com/Brylsmn/Brylsmn/assets/142909052/5339a39a-b1f3-4e35-a6e8-447b0eaa4ffd)
-**Data Analytics Essentials**<hr>
-[![Certificate  Data Analytics Essentials  Galquiera, Brylle Simon B -1](https://github.com/Brylsmn/Brylsmn/assets/142909052/0f886015-8051-4061-94ee-dcb78b86b083)](https://www.credly.com/badges/ba2d8752-a19a-40c1-96fd-e0cfd2466f66)
-**Introduction to Data Science**<hr>
-[![Certificate  Introduction to Data Science  Galquiera, Brylle Simon B -1](https://github.com/Brylsmn/Brylsmn/assets/142909052/ec53a807-343b-4a12-a245-7416e262e2f9)](https://www.credly.com/badges/faba8025-7f55-4948-8a68-f4a833d9d3e5)
-**Intro to Programming - Kaggle**<hr>
-[![Certificate  Intro to Programming - Kaggle  Galquiera, Brylle Simon B](https://github.com/Brylsmn/Brylsmn/assets/142909052/49fa77aa-305d-42db-9b56-43c75eddc319)](https://www.kaggle.com/learn/certification/bryllesimongalquiera/intro-to-programming)
-**Business Analytics with Excel**<hr>
-[![Certificate  Business Analytics with Excel  Galquiera, Brylle Simon B -1](https://github.com/Brylsmn/Brylsmn/assets/142909052/424410c9-5635-4db2-bae5-94458157b1eb)](https://simpli-web.app.link/e/3rvPqBRV8Kb)
-**Oracle Cloud Data Management 2022 Foundations**<hr>
-[![eCertificate Oracle Cloud Data Management 2022-1](https://github.com/Brylsmn/Brylsmn/assets/142909052/5ade7e8e-3ab5-43d7-83f3-0627a59bc082)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFD81595937295656CA5E8FD0E48CD1EDAC898420E5655A254059515D4FAFCCA)
-**Oracle Cloud Infrastructure 2022 Foundations**<hr>
-[![eCertificate Oracle Infrastructure 2022-1](https://github.com/Brylsmn/Brylsmn/assets/142909052/58f6d1c6-bcf0-4357-be0c-d09c5cf2ed30)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E5D7F1197B74AB0EABAE77B566D50F2423BCCAC10C654F1440495152F9BE11BA)
-**SQL and Relational Databases 101**<hr>
-[![eCertificate Cognitive Class SQL and Relational Databases 101-1](https://github.com/Brylsmn/Brylsmn/assets/142909052/b0ca6ed9-4ecd-4c7f-8b69-20d966bf4c99)](https://courses.cognitiveclass.ai/certificates/4a785e43e9974c3c96ca365c9812ef73)
+1. [**Basic Cybersecurity Training Completion**](https://github.com/Brylsmn/Brylsmn/assets/142909052/5339a39a-b1f3-4e35-a6e8-447b0eaa4ffd)
+2. [**Data Analytics Essentials**](https://github.com/Brylsmn/Brylsmn/assets/142909052/0f886015-8051-4061-94ee-dcb78b86b083)
+3. [**Introduction to Data Science**](https://github.com/Brylsmn/Brylsmn/assets/142909052/ec53a807-343b-4a12-a245-7416e262e2f9)
+4. [**Intro to Programming - Kaggle**](https://github.com/Brylsmn/Brylsmn/assets/142909052/49fa77aa-305d-42db-9b56-43c75eddc319)
+5. [**Business Analytics with Excel**](https://github.com/Brylsmn/Brylsmn/assets/142909052/424410c9-5635-4db2-bae5-94458157b1eb)
+6. [**Oracle Cloud Data Management 2022 Foundations**](https://github.com/Brylsmn/Brylsmn/assets/142909052/5ade7e8e-3ab5-43d7-83f3-0627a59bc082)
+7. [**Oracle Cloud Infrastructure 2022 Foundations**](https://github.com/Brylsmn/Brylsmn/assets/142909052/58f6d1c6-bcf0-4357-be0c-d09c5cf2ed30)
+8. [**SQL and Relational Databases 101**](https://github.com/Brylsmn/Brylsmn/assets/142909052/b0ca6ed9-4ecd-4c7f-8b69-20d966bf4c99)
 
 # Tech Achievement
 **Power BI Best Reports**
