@@ -1,5 +1,3 @@
-![Certificate  JavaScript Essentials 1  Galquiera, Brylle Simon B](https://github.com/user-attachments/assets/b9f11beb-4523-470c-a398-855e5ecf3397)![Certificate  JavaScript Essentials 1  Galquiera, Brylle Simon B](https://github.com/user-attachments/assets/ea6c7983-9371-49b2-a681-70ff1b3438d8)![github pic - brylle](https://github.com/Brylsmn/Brylsmn/assets/142909052/1933b7cb-282c-4d87-87ee-13581f206f0d)
-
 # Education
   - **New Era University**
   <br>&emsp;&ensp;_2021 - Present_
