@@ -39,6 +39,7 @@
 <img src=https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg alt="MySQL" width="50" height="50">
 <img src=https://cdn.freebiesupply.com/logos/large/2x/html5-logo-svg-vector.svg alt="HTML" width="50" height="50">
 <img src=https://www.php.net/images/logos/new-php-logo.svg alt="PHP" width="50" height="50">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/397px-Javascript-shield.svg.png?20180912181046 alt="JavaScript" width="35" height="50">
 ### DBMS:
 <br><img src=https://upload.vectorlogo.zone/logos/ibm/images/266622c7-9e99-4609-82d0-f8633242d45f.svg alt="DB2" width="50" height="50">
 ### Dev Tools:
