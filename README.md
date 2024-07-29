@@ -1,3 +1,5 @@
+![github pic - brylle](https://github.com/user-attachments/assets/60da2d97-25f5-4507-9d14-dda3ca379c76)
+
 # Education
   - **New Era University**
   <br>&emsp;&ensp;_2021 - Present_
