@@ -6,37 +6,40 @@
   <br>&emsp;&ensp;_Bachelor of Science in Computer Science_
 
 # Certifications
-1. [**Web Development for Beginners**](https://github.com/user-attachments/assets/dfbce11f-1273-4d9d-99ed-635797ee903b)
+1. [**Introduction to HTML**](https://github.com/user-attachments/assets/920d8d2d-c67b-4b2e-8fd1-a19d77b162c8)
 <br>Simplilearn SkillUp
 <br>July 30, 2024
-2. [**JavaScript Essentials 2**](https://github.com/user-attachments/assets/57018cac-9d0b-41c9-a7db-30694afbd7e4)
+2. [**Web Development for Beginners**](https://github.com/user-attachments/assets/dfbce11f-1273-4d9d-99ed-635797ee903b)
+<br>Simplilearn SkillUp
+<br>July 30, 2024
+3. [**JavaScript Essentials 2**](https://github.com/user-attachments/assets/57018cac-9d0b-41c9-a7db-30694afbd7e4)
 <br>Cisco SkillsForAll
 <br>July 30, 2024
-3. [**Javascript Essentials 1**](https://github.com/user-attachments/assets/568841cc-428f-48f9-b547-887a01e5d0e1)
+4. [**Javascript Essentials 1**](https://github.com/user-attachments/assets/568841cc-428f-48f9-b547-887a01e5d0e1)
 <br>Cisco SkillsForAll
 <br>July 29, 2024
-4. [**Basic Cybersecurity Training Completion**](https://github.com/Brylsmn/Brylsmn/assets/142909052/5339a39a-b1f3-4e35-a6e8-447b0eaa4ffd)
+5. [**Basic Cybersecurity Training Completion**](https://github.com/Brylsmn/Brylsmn/assets/142909052/5339a39a-b1f3-4e35-a6e8-447b0eaa4ffd)
 <br>New Era University
 <br>June 4, 2024
-5. [**Data Analytics Essentials**](https://github.com/Brylsmn/Brylsmn/assets/142909052/0f886015-8051-4061-94ee-dcb78b86b083)
+6. [**Data Analytics Essentials**](https://github.com/Brylsmn/Brylsmn/assets/142909052/0f886015-8051-4061-94ee-dcb78b86b083)
 <br>Cisco SkillsForAll
 <br>December 31, 2023
-6. [**Introduction to Data Science**](https://github.com/Brylsmn/Brylsmn/assets/142909052/ec53a807-343b-4a12-a245-7416e262e2f9)
+7. [**Introduction to Data Science**](https://github.com/Brylsmn/Brylsmn/assets/142909052/ec53a807-343b-4a12-a245-7416e262e2f9)
 <br>Cisco SkillsForAll
 <br>December 31, 2023
-7. [**Intro to Programming - Kaggle**](https://github.com/Brylsmn/Brylsmn/assets/142909052/49fa77aa-305d-42db-9b56-43c75eddc319)
+8. [**Intro to Programming - Kaggle**](https://github.com/Brylsmn/Brylsmn/assets/142909052/49fa77aa-305d-42db-9b56-43c75eddc319)
 <br>Kaggle
 <br>December 31, 2023
-8. [**Business Analytics with Excel**](https://github.com/Brylsmn/Brylsmn/assets/142909052/424410c9-5635-4db2-bae5-94458157b1eb)
+9. [**Business Analytics with Excel**](https://github.com/Brylsmn/Brylsmn/assets/142909052/424410c9-5635-4db2-bae5-94458157b1eb)
 <br>Simplilearn SkillUp
 <br>September 7, 2023
-9. [**Oracle Cloud Data Management 2022 Foundations**](https://github.com/Brylsmn/Brylsmn/assets/142909052/5ade7e8e-3ab5-43d7-83f3-0627a59bc082)
+10. [**Oracle Cloud Data Management 2022 Foundations**](https://github.com/Brylsmn/Brylsmn/assets/142909052/5ade7e8e-3ab5-43d7-83f3-0627a59bc082)
 <br>Oracle
 <br>December 9, 2022
-10. [**Oracle Cloud Infrastructure 2022 Foundations**](https://github.com/Brylsmn/Brylsmn/assets/142909052/58f6d1c6-bcf0-4357-be0c-d09c5cf2ed30)
+11. [**Oracle Cloud Infrastructure 2022 Foundations**](https://github.com/Brylsmn/Brylsmn/assets/142909052/58f6d1c6-bcf0-4357-be0c-d09c5cf2ed30)
 <br>Oracle
 <br>November 24, 2022
-11. [**SQL and Relational Databases 101**](https://github.com/Brylsmn/Brylsmn/assets/142909052/b0ca6ed9-4ecd-4c7f-8b69-20d966bf4c99)
+12. [**SQL and Relational Databases 101**](https://github.com/Brylsmn/Brylsmn/assets/142909052/b0ca6ed9-4ecd-4c7f-8b69-20d966bf4c99)
 <br>Cognitive Class
 <br>November 6, 2022
 
