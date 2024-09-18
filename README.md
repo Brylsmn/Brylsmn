@@ -1,6 +1,6 @@
-![github pic - brylle](https://github.com/user-attachments/assets/60da2d97-25f5-4507-9d14-dda3ca379c76)
+![updated github pic](https://github.com/user-attachments/assets/b3f10e45-5389-4741-a59a-18fb9ce11711)
 
-# Education
+# Educational Attainment
   - **New Era University**
   <br>&emsp;&ensp;_2021 - Present_
   <br>&emsp;&ensp;_Bachelor of Science in Computer Science_
