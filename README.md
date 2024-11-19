@@ -21,97 +21,97 @@
     <tr>
       <td>Deep Learning with TensorFlow</td>
       <td>IBM Cognitive Class</td>
-      <td>November 19, 2024</td>
+      <td align="center">November 19, 2024</td>
       <td><a href="https://drive.google.com/file/d/1mzGABEyvEobXnkZSYv3M8Taa1_m4Qn49/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Introduction to AI</td>
       <td>Elements of AI</td>
-      <td>November 18, 2024</td>
+      <td align="center">November 18, 2024</td>
       <td><a href="https://drive.google.com/file/d/1iZApHzcYGvtmu63cyCBNM5a0uL-miV2h/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Introduction to Front End Development</td>
       <td>Simplilearn SkillUp</td>
-      <td>August 2, 2024</td>
+      <td align="center">August 2, 2024</td>
       <td><a href="https://drive.google.com/file/d/1gq77oQk6GABlghiQMQxiCm3i9B75tpyF/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Introduction to CSS</td>
       <td>Simplilearn SkillUp</td>
-      <td>July 30, 2024</td>
+      <td align="center">July 30, 2024</td>
       <td><a href="https://drive.google.com/file/d/1ebuS64xFYehYCDRBDPXMeNNtGLyFICP3/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Introduction to HTML</td>
       <td>Simplilearn SkillUp</td>
-      <td>July 30, 2024</td>
+      <td align="center">July 30, 2024</td>
       <td><a href="https://drive.google.com/file/d/16pQsOqrVyCFbWX1bSPz6z_QrEySsOmOX/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Web Development for Beginners</td>
       <td>Simplilearn SkillUp</td>
-      <td>July 30, 2024</td>
+      <td align="center">July 30, 2024</td>
       <td><a href="https://drive.google.com/file/d/1pO7KKQTXexU5heYrg9XAVsv3daMphsAC/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Javascript Essentials 2</td>
       <td>Cisco SkillsForAll</td>
-      <td>July 30, 2024</td>
+      <td align="center">July 30, 2024</td>
      <td><a href="https://drive.google.com/file/d/1cpef4TZJ8vwvTGVigjk6vgSK6L59O1_B/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Javascript Essentials 1</td>
       <td>Cisco SkillsForAll</td>
-      <td>July 29, 2024</td>
+      <td align="center">July 29, 2024</td>
       <td><a href="https://drive.google.com/file/d/1y9TQQQyXz6NF9QCmhGkOE3ab3qZMEFIt/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Basic Cybersecurity Training Completion</td>
       <td>New Era University</td>
-      <td>June 4, 2024</td>
+      <td align="center">June 4, 2024</td>
       <td><a href="https://drive.google.com/file/d/1PQMy4d8_KDFV-fJflPpjsxUwjCpoNIaH/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Data Analytics Essentials</td>
       <td>Cisco SkillsForAll</td>
-      <td>December 31, 2023</td>
+      <td align="center">December 31, 2023</td>
       <td><a href="https://drive.google.com/file/d/1jLMzWmV62SDxqYxsgdARGrSAsDPGsKwo/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Introduction to Data Science</td>
       <td>Cisco SkillsForAll</td>
-      <td>December 31, 2023</td>
+      <td align="center">December 31, 2023</td>
       <td><a href="https://drive.google.com/file/d/1t3FhF6aOpTcDUiLmzCfOKPmHxdy5gTeH/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Intro to Programming</td>
       <td>Kaggle</td>
-      <td>December 31, 2023</td>
+      <td align="center">December 31, 2023</td>
       <td><a href="https://drive.google.com/file/d/1eHm16VzKPNWvtiWSEVCbxdL_FsThL-e8/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Business Analytics with Excel</td>
       <td>Simplilearn SkillUp</td>
-      <td>September 7, 2023</td>
+      <td align="center">September 7, 2023</td>
       <td><a href="https://drive.google.com/file/d/1NEyr_y_S8UmmOYWmgv9DaSfUwPgg2YG0/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Oracle Cloud Data Management 2022 Foundations</td>
       <td>Oracle</td>
-      <td>December 9, 2022</td>
+      <td align="center">December 9, 2022</td>
       <td><a href="https://drive.google.com/file/d/15-9DXy-ORJZP7E0jJ6wA7i0ofa_rn8kr/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>Oracle Cloud Infrastructure 2022 Foundations</td>
       <td>Oracle</td>
-      <td>November 24, 2022</td>
+      <td align="center">November 24, 2022</td>
       <td><a href="https://drive.google.com/file/d/1Y7bGu13_bp7vs4Ux0IsbULSlr_OfrlFi/view?usp=sharing">Link</a></td>
     </tr>
     <tr>
       <td>SQL and Relational Databases 101</td>
       <td>IBM Cognitive Class</td>
-      <td>November 6, 2022</td>
+      <td align="center">November 6, 2022</td>
       <td><a href="https://drive.google.com/file/d/1iksKLxhSjfzHT014n0Em8Clehj2_BbSu/view?usp=sharing">Link</a></td>
     </tr>
   </tbody>
