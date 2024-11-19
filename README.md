@@ -119,7 +119,7 @@
 **Power BI Best Reports**
 - [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiYTkxOTQ1NDgtMjFjOS00YWYyLWEyZWEtODA4Yzc1NjMyNTZjIiwidCI6IjI4ZGRjYjA2LTBiZDgtNDNkOS1hOTcyLWMyNDg5NjQ4MWM2NCIsImMiOjEwfQ%3D%3D)
 - [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiMWY2MTkzYjctYmQ0Mi00MmZiLWFjMDgtMGE2NzQ5ZGI1M2E2IiwidCI6IjI4ZGRjYjA2LTBiZDgtNDNkOS1hOTcyLWMyNDg5NjQ4MWM2NCIsImMiOjEwfQ%3D%3D)
-- [Professional Elective 4 Stats Report]()
+- [Professional Elective 4 Stats Report](https://app.powerbi.com/view?r=eyJrIjoiNGZhNTAyYzMtNTk0Mi00ZmI1LWI4NzktZTI0ZTY0NjkzOTZhIiwidCI6IjI4ZGRjYjA2LTBiZDgtNDNkOS1hOTcyLWMyNDg5NjQ4MWM2NCIsImMiOjEwfQ%3D%3D)
 
 **Software Engineering Best Design Pattern Repositories**
 - [Singleton Pattern](https://github.com/Brylsmn/SingletonPattern)
