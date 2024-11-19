@@ -19,6 +19,12 @@
   </thead>
   <tbody>
     <tr>
+      <td>Python Programming</td>
+      <td>Test Automation University</td>
+      <td align="center">November 19, 2024</td>
+      <td><a href="https://drive.google.com/file/d/1LbSNcZHbONcwWsSp1lRk78LA7Q-uBHp_/view?usp=sharing">Link</a></td>
+    </tr>
+    <tr>
       <td>Deep Learning with TensorFlow</td>
       <td>IBM Cognitive Class</td>
       <td align="center">November 19, 2024</td>
