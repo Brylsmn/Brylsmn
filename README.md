@@ -1,4 +1,6 @@
-![updated github pic](https://github.com/user-attachments/assets/b3f10e45-5389-4741-a59a-18fb9ce11711)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/26eac4ca-e1aa-4d77-8618-727511901430" alt="github readme pic updated" style="width: 100%; max-width: 600px;">
+</div>
 
 # Educational Attainment
   - **New Era University**
