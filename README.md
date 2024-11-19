@@ -115,6 +115,56 @@
   </tbody>
 </table>
 
+# Skillset
+<table align="center">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Tools/Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Data Visualization Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Programming Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      </td>
+    </tr>
+    <tr>
+      <td><b>DBMS</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/IBM%20DB2-003478?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Dev Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/Lucidchart-F19C00?style=for-the-badge&logo=lucidchart&logoColor=white" alt="LucidChart">
+        <img src="https://img.shields.io/badge/Jaspersoft-007396?style=for-the-badge&logo=java&logoColor=white" alt="Jaspersoft">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 # Tech Achievement
 **Power BI Best Reports**
 - [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiYTkxOTQ1NDgtMjFjOS00YWYyLWEyZWEtODA4Yzc1NjMyNTZjIiwidCI6IjI4ZGRjYjA2LTBiZDgtNDNkOS1hOTcyLWMyNDg5NjQ4MWM2NCIsImMiOjEwfQ%3D%3D)
@@ -127,21 +177,3 @@
 - [Strategy Pattern](https://github.com/Brylsmn/StrategyPattern)
 - [Observer Pattern](https://github.com/Brylsmn/ObserverPattern)
 - [Builder Pattern](https://github.com/Brylsmn/BuilderPattern)
-
-# Skillset
-### Data Visualization Tools:
-<br><img src=https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg alt="Power BI" width="50" height="50">
-<img src=https://cdn.worldvectorlogo.com/logos/tableau-software.svg alt="Tableau Public" width="50" height="50">
-### Programming Languages:
-<br><img src=https://www.vectorlogo.zone/logos/java/java-icon.svg alt="Java" width="50" height="50">
-<img src=https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg alt="Python" width="50" height="50">
-<img src=https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg alt="MySQL" width="50" height="50">
-<img src=https://cdn.freebiesupply.com/logos/large/2x/html5-logo-svg-vector.svg alt="HTML" width="50" height="50">
-<img src=https://www.php.net/images/logos/new-php-logo.svg alt="PHP" width="50" height="50">
-<img src=https://cdn.worldvectorlogo.com/logos/logo-javascript.svg alt="JavaScript" width="50" height="50">
-### DBMS:
-<br><img src=https://upload.vectorlogo.zone/logos/ibm/images/266622c7-9e99-4609-82d0-f8633242d45f.svg alt="DB2" width="50" height="50">
-### Dev Tools:
-<br><img src=https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg alt="lucidchart" width="50" height="50">
-<img src=https://www.svgrepo.com/show/353685/eclipse-icon.svg alt="Eclipse" width="50" height="50">
-<img src=https://www.svgrepo.com/show/452129/vs-code.svg alt="vscode" width="50" height="50">
