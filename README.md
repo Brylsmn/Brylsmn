@@ -6,24 +6,99 @@
   <br>&emsp;&ensp;_Bachelor of Science in Computer Science_
 
 # Certifications
-| Certifications | Institution | Data Acquired |
-| :---           | :--- | :---: |
-| Deep Learning with TensorFlow | IBM Cognitive Class | November 19, 2024 |
-| Introduction to AI | Elements of AI | November 18, 2024 |
-| Introduction to Front End Development | Simplilearn SkillUp | August 2, 2024 | 
-| Introduction to CSS | Simplilearn SkillUp | July 30, 2024 |
-| Introduction to HTML | Simplilearn SkillUp | July 30, 2024 |
-| Web Development for Beginners | Simplilearn SkillUp | July 30, 2024 |
-| Javascript Essentials 2 | Cisco SkillsForAll | July 30, 2024 |
-| Javascript Essentials 1 | Cisco SkillsForAll | July 29, 2024 |
-| Basic Cybersecurity Training Completion | New Era University | June 4, 2024 |
-| Data Analytics Essentials | Cisco SkillsForAll | December 31, 2023 |
-| Introduction to Data Science | Cisco SkillsForAll | December 31, 2023 |
-| Intro to Programming | Kaggle | December 31, 2023 |
-| Business Analytics with Excel | Simplilearn SkillUp | September 7, 2023 | 
-| Oracle Cloud Data Management 2022 Foundations | Oracle | December 9, 2022 |
-| Oracle Cloud Infrastructure 2022 Foundations | Oracle | November 24, 2022 |
-| SQL and Relational Databases 101 | IBM Cognitive Class | November 6, 2022 |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Certifications</th>
+      <th>Institution</th>
+      <th>Data Acquired</th>
+      <th><a href="https://drive.google.com/file/d/1mzGABEyvEobXnkZSYv3M8Taa1_m4Qn49/view?usp=sharing">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Deep Learning with TensorFlow</td>
+      <td>IBM Cognitive Class</td>
+      <td>November 19, 2024</td>
+      <td>
+    </tr>
+    <tr>
+      <td>Introduction to AI</td>
+      <td>Elements of AI</td>
+      <td>November 18, 2024</td>
+    </tr>
+    <tr>
+      <td>Introduction to Front End Development</td>
+      <td>Simplilearn SkillUp</td>
+      <td>August 2, 2024</td>
+    </tr>
+    <tr>
+      <td>Introduction to CSS</td>
+      <td>Simplilearn SkillUp</td>
+      <td>July 30, 2024</td>
+    </tr>
+    <tr>
+      <td>Introduction to HTML</td>
+      <td>Simplilearn SkillUp</td>
+      <td>July 30, 2024</td>
+    </tr>
+    <tr>
+      <td>Web Development for Beginners</td>
+      <td>Simplilearn SkillUp</td>
+      <td>July 30, 2024</td>
+    </tr>
+    <tr>
+      <td>Javascript Essentials 2</td>
+      <td>Cisco SkillsForAll</td>
+      <td>July 30, 2024</td>
+    </tr>
+    <tr>
+      <td>Javascript Essentials 1</td>
+      <td>Cisco SkillsForAll</td>
+      <td>July 29, 2024</td>
+    </tr>
+    <tr>
+      <td>Basic Cybersecurity Training Completion</td>
+      <td>New Era University</td>
+      <td>June 4, 2024</td>
+    </tr>
+    <tr>
+      <td>Data Analytics Essentials</td>
+      <td>Cisco SkillsForAll</td>
+      <td>December 31, 2023</td>
+    </tr>
+    <tr>
+      <td>Introduction to Data Science</td>
+      <td>Cisco SkillsForAll</td>
+      <td>December 31, 2023</td>
+    </tr>
+    <tr>
+      <td>Intro to Programming</td>
+      <td>Kaggle</td>
+      <td>December 31, 2023</td>
+    </tr>
+    <tr>
+      <td>Business Analytics with Excel</td>
+      <td>Simplilearn SkillUp</td>
+      <td>September 7, 2023</td>
+    </tr>
+    <tr>
+      <td>Oracle Cloud Data Management 2022 Foundations</td>
+      <td>Oracle</td>
+      <td>December 9, 2022</td>
+    </tr>
+    <tr>
+      <td>Oracle Cloud Infrastructure 2022 Foundations</td>
+      <td>Oracle</td>
+      <td>November 24, 2022</td>
+    </tr>
+    <tr>
+      <td>SQL and Relational Databases 101</td>
+      <td>IBM Cognitive Class</td>
+      <td>November 6, 2022</td>
+    </tr>
+  </tbody>
+</table>
 
 # Tech Achievement
 **Power BI Best Reports**
