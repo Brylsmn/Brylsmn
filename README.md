@@ -19,6 +19,12 @@
   </thead>
   <tbody>
     <tr>
+      <td>Java Programming</td>
+      <td>Test Automation University</td>
+      <td align="center">November 27, 2024</td>
+      <td><a href="https://drive.google.com/file/d/1qe-7qM8apSYdKnt3Egzj2fvK1zTw3u-q/view?usp=sharing">Link</a></td>
+    </tr>
+    <tr>
       <td>Python Programming</td>
       <td>Test Automation University</td>
       <td align="center">November 19, 2024</td>
