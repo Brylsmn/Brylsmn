@@ -68,18 +68,28 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href="https://drive.google.com/file/d/1hdGzctvcoFUn8iYIBEFysooW42NXwzBZ/view?usp=drive_link">Agile Scrum Master</a></td>
+      <td>Simplilearn SkillUp</td>
+      <td align="center">December 8, 2024</td>
+    </tr>
+     <tr>
+      <td><a href="https://drive.google.com/file/d/1JtqwsyQs930_oxexCT1V9fSTn7PpYu3T/view?usp=drive_link">Mobile App Development - Android App Development for Beginners</a></td>
+      <td>Simplilearn SkillUp</td>
+      <td align="center">December 8, 2024</td>
+    </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1Ph3npqImmioXoXJ24B0bdZ7IU82VxpGC/view?usp=drive_link" style="text-decoration:none;">Ethical Hacking 101: Beginner's Guide to Ethical Hacking</a></td>
+      <td><a href="https://drive.google.com/file/d/1Ph3npqImmioXoXJ24B0bdZ7IU82VxpGC/view?usp=drive_link">Ethical Hacking 101: Beginner's Guide to Ethical Hacking</a></td>
       <td>Simplilearn SkillUp</td>
       <td align="center">December 7, 2024</td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1P4qIS6SPjAkF3KBI2vvmM5gny754Gf9T/view?usp=sharing" style="text-decoration:none;">Introduction to PHP</a></td>
+      <td><a href="https://drive.google.com/file/d/1P4qIS6SPjAkF3KBI2vvmM5gny754Gf9T/view?usp=sharing">Introduction to PHP</a></td>
       <td>Simplilearn SkillUp</td>
       <td align="center">December 7, 2024</td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1qe-7qM8apSYdKnt3Egzj2fvK1zTw3u-q/view?usp=sharing" style="text-decoration:none;">Java Programming</a></td>
+      <td><a href="https://drive.google.com/file/d/1qe-7qM8apSYdKnt3Egzj2fvK1zTw3u-q/view?usp=sharing">Java Programming</a></td>
       <td>Test Automation University</td>
       <td align="center">November 27, 2024</td>
     </tr>
