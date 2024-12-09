@@ -69,6 +69,16 @@
   </thead>
   <tbody>
      <tr>
+      <td><a href="https://drive.google.com/file/d/1MmgTFbdwjSZfg-5tciHlLZVCC6WHUs6T/view?usp=drive_link">Introduction to Cybersecurity</a></td>
+      <td>Cisco SkillsForAll</td>
+      <td align="center">December 9, 2024</td>
+    </tr>
+     <tr>
+      <td><a href="https://drive.google.com/file/d/1wzg8p5zasjL6ETKI_Jvs6GWcSaYCdouZ/view?usp=drive_link">Introduction to Modern AI</a></td>
+      <td>Cisco SkillsForAll</td>
+      <td align="center">December 9, 2024</td>
+    </tr>
+     <tr>
       <td><a href="https://drive.google.com/file/d/1hdGzctvcoFUn8iYIBEFysooW42NXwzBZ/view?usp=drive_link">Agile Scrum Master</a></td>
       <td>Simplilearn SkillUp</td>
       <td align="center">December 8, 2024</td>
