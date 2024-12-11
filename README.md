@@ -68,6 +68,16 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+        <td><a href="https://drive.google.com/file/d/1b6AOAJHRiTToHnaU6r9ViF1sCG-i1hyY/view?usp=drive_link">IntelliJ for Test Automation Engineers</a></td>
+        <td>Test Automation University</td>
+        <td align="center">December 11, 2024</td>
+      </tr>
+      <tr>
+        <td><a href="https://drive.google.com/file/d/1q7dKJGvi79IqLUJm6upof9rEBoC_WM-F/view?usp=drive_link">Setting a Foundation for Successful Test Automation</a></td>
+        <td>Test Automation University</td>
+        <td align="center">December 11, 2024</td>
+      </tr>
      <tr>
       <td><a href="https://drive.google.com/file/d/1MmgTFbdwjSZfg-5tciHlLZVCC6WHUs6T/view?usp=drive_link">Introduction to Cybersecurity</a></td>
       <td>Cisco SkillsForAll</td>
