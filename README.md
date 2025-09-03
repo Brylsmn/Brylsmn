@@ -1,62 +1,21 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/26eac4ca-e1aa-4d77-8618-727511901430" alt="github readme pic updated" style="width: 100%; max-width: 600px;">
+  <img width="820" height="312" alt="github poster updated september 2025" src="https://github.com/user-attachments/assets/f5b339cb-a8ad-4663-8897-40b1d53bd67b" />
 </div>
 
 # Educational Attainment
   - **New Era University**
-  <br>&emsp;&ensp;_2021 - Present_
+  <br>&emsp;&ensp;_2021 - 2025_
   <br>&emsp;&ensp;_Bachelor of Science in Computer Science_
 
 # Skillset
-<table align="center">
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Tools/Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Data Visualization Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-      </td>
-    </tr>
-    <tr>
-      <td><b>Programming Languages</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      </td>
-    </tr>
-    <tr>
-      <td><b>DBMS</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/IBM%20DB2-003478?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2">
-      </td>
-    </tr>
-    <tr>
-      <td><b>Dev Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-        <img src="https://img.shields.io/badge/Lucidchart-F19C00?style=for-the-badge&logo=lucidchart&logoColor=white" alt="LucidChart">
-        <img src="https://img.shields.io/badge/Jaspersoft-007396?style=for-the-badge&logo=java&logoColor=white" alt="Jaspersoft">
-      </td>
-    </tr>
-  </tbody>
-</table>
+**Programming Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,js,php,mysql,html,css)](https://skillicons.dev)
+
+
+**Dev Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,eclipse,idea,pycharm,vscode,androidstudio,github,git,vercel,netlify,figma)](https://skillicons.dev)
 
 # Certifications
 <table align="center">
@@ -201,15 +160,8 @@
   </tbody>
 </table>
 
-# Tech Achievement
-**Power BI Best Reports**
+# Data Visualization
+**Power BI Reports**
 - [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiYTkxOTQ1NDgtMjFjOS00YWYyLWEyZWEtODA4Yzc1NjMyNTZjIiwidCI6IjI4ZGRjYjA2LTBiZDgtNDNkOS1hOTcyLWMyNDg5NjQ4MWM2NCIsImMiOjEwfQ%3D%3D)
 - [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiMWY2MTkzYjctYmQ0Mi00MmZiLWFjMDgtMGE2NzQ5ZGI1M2E2IiwidCI6IjI4ZGRjYjA2LTBiZDgtNDNkOS1hOTcyLWMyNDg5NjQ4MWM2NCIsImMiOjEwfQ%3D%3D)
 - [Professional Elective 4 Stats Report](https://app.powerbi.com/view?r=eyJrIjoiNGZhNTAyYzMtNTk0Mi00ZmI1LWI4NzktZTI0ZTY0NjkzOTZhIiwidCI6IjI4ZGRjYjA2LTBiZDgtNDNkOS1hOTcyLWMyNDg5NjQ4MWM2NCIsImMiOjEwfQ%3D%3D)
-
-**Software Engineering Best Design Pattern Repositories**
-- [Singleton Pattern](https://github.com/Brylsmn/SingletonPattern)
-- [Factory Pattern](https://github.com/Brylsmn/FactoryPattern)
-- [Strategy Pattern](https://github.com/Brylsmn/StrategyPattern)
-- [Observer Pattern](https://github.com/Brylsmn/ObserverPattern)
-- [Builder Pattern](https://github.com/Brylsmn/BuilderPattern)
